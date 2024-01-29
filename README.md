@@ -21,7 +21,7 @@ To run the Gemini LLM Application locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/5PCD3/Gemini-LLM-Application
+    git clone https://github.com/5PCD3/Gemini-LLM-Application.git
     cd <repository-directory>
     ```
 
@@ -33,7 +33,7 @@ To run the Gemini LLM Application locally, follow these steps:
 3. **Create a virtual environment (optional but recommended):**
     ```bash
     conda create -p venv python==3.10 -y
-    conda activate venv/  # On Windows, use `venv\Scripts\activate`
+    conda activate venv/  
     ```
 
 4. **Set up your environment variables:**
